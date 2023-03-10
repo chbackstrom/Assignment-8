@@ -14,9 +14,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## About Me | Personal
 
 - <b>Birth State/Country</b>: Pennsylvania, United States
-- <b>Favorite Foods</b>: Gyoza*, Lemon Squares, Outback Steakhouse Bloomin Onion
+- <b>Favorite Foods</b>: Gyoza, Lemon Squares, Outback Steakhouse Bloomin Onion
 - <b>Favorite Animals</b>: Corals, Octopuses, Parrots, Axlotls, Boxfish, 
-Velvet Worms
+Velvet Worms, Tapirs
 
 
 ## About Me | Academic
@@ -27,7 +27,7 @@ Velvet Worms
 # Data Science
 
 ## Course Topics | 3 things I enjoyed learning about
-    1) How to "pull" and "push" R and Rmd files from Github for collaborations   
+    1) How to "pull" and "push" R and Rmd files via Github for collaborations   
     2) How to convert my Microsoft Word-centric manuscripts, proposals, etc. 
     into interactive Rmd files/PDFs
     3) How to create my own R package and describe its functions/uses
@@ -36,9 +36,8 @@ Velvet Worms
     1) How to build/use Shiny Apps for my own research needs   
     2) How to integrate AGILE methods into my own work with my lab and our 
     projects
-    3) How to efficiently re-archive past data sets (not just current/
-    future ones) in more accessible ways through github
+    3) How to organize maintenance of R packages created by a team of people 
+    including yourself (i.e., responsibilities, responsiveness to feedback, 
+    etc.)
     
 ## {data-background=img/CCMI_LittleCayman.jpg data-background-size=cover}
-
-
